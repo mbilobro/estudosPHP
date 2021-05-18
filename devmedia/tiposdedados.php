@@ -12,8 +12,6 @@
     $numero = 15;
     $string = "15";
 
-
-
     $denoite = $noite ?  "Está de noite." : "Está de dia.";
     echo "<br/>$denoite";
 
